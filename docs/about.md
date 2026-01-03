@@ -51,52 +51,14 @@ This training portal reflects Raja's belief that effective learning combines:
 
 I welcome connections from fellow data professionals, learners, and anyone interested in advancing the field of data management.
 
-<div class="grid cards" markdown>
-
--   :fontawesome-brands-linkedin:{ .lg .middle } **LinkedIn**
-
-    ---
-
-    Connect professionally and stay updated on the latest insights
-
-    [:octicons-arrow-right-24: Connect on LinkedIn](https://www.linkedin.com/in/raja-shahnawaz/)
-
--   :fontawesome-brands-github:{ .lg .middle } **GitHub**
-
-    ---
-
-    Explore projects and contribute to open-source initiatives
-
-    [:octicons-arrow-right-24: Follow on GitHub](https://github.com/rajasoni)
-
--   :fontawesome-brands-twitter:{ .lg .middle } **Twitter**
-
-    ---
-
-    Join the conversation on data management and AI
-
-    [:octicons-arrow-right-24: Follow on Twitter](https://twitter.com/rajasoni)
-
--   :fontawesome-solid-envelope:{ .lg .middle } **Email**
-
-    ---
-
-    Reach out for collaborations, speaking engagements, or inquiries
-
-    [:octicons-arrow-right-24: Send an Email](mailto:raja.cloudmdm@gmail.com)
-
-</div>
-
----
-
-## Let's Connect
+### Contact Information
 
 | Platform | Link | Purpose |
 |----------|------|---------|
-| **LinkedIn** | [linkedin.com/in/raja-shahnawaz](https://www.linkedin.com/in/raja-shahnawaz/) | Professional networking & updates |
-| **GitHub** | [github.com/rajasoni](https://github.com/rajasoni) | Code repositories & projects |
-| **Twitter** | [twitter.com/rajasoni](https://twitter.com/rajasoni) | Industry insights & discussions |
-| **Email** | [raja.cloudmdm@gmail.com](mailto:raja.cloudmdm@gmail.com) | Direct communication |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/raja-shahnawaz](https://www.linkedin.com/in/raja-shahnawaz/) | Professional networking & updates |
+| :fontawesome-brands-github: **GitHub** | [github.com/rajasoni](https://github.com/rajasoni) | Code repositories & projects |
+| :fontawesome-brands-twitter: **Twitter** | [twitter.com/rajasoni](https://twitter.com/rajasoni) | Industry insights & discussions |
+| :fontawesome-solid-envelope: **Email** | [raja.cloudmdm@gmail.com](mailto:raja.cloudmdm@gmail.com) | Direct communication |
 
 ---
 
