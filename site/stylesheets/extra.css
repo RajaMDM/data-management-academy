@@ -1,0 +1,172 @@
+/* Custom styling for Data Management Training Portal */
+/* Created by Raja Shahnawaz Soni */
+
+/* Mermaid diagram styling */
+.mermaid {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+/* Enhanced code blocks */
+.highlight {
+  border-radius: 8px;
+}
+
+/* Better heading styling */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+}
+
+/* Module sections styling */
+.md-content h2 {
+  border-bottom: 2px solid var(--md-primary-fg-color);
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+}
+
+/* AI/GenAI sub-thread highlight */
+.md-content h3 {
+  color: var(--md-primary-fg-color);
+}
+
+/* Navigation improvements */
+.md-nav__link {
+  font-size: 0.85rem;
+}
+
+/* Footer styling */
+.md-footer {
+  margin-top: 2rem;
+}
+
+/* Enhanced footer with author branding */
+.md-footer-meta {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.md-footer-copyright {
+  font-size: 0.9rem;
+  padding: 1rem 0;
+}
+
+/* Content area max-width for readability */
+.md-content__inner {
+  max-width: 900px;
+}
+
+/* Admonition styling */
+.admonition {
+  border-radius: 8px;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 0.75rem;
+  text-align: left;
+}
+
+/* Author signature banner */
+.author-banner {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  margin: 2rem 0;
+}
+
+.author-banner h3 {
+  margin: 0;
+  color: white !important;
+}
+
+.author-banner p {
+  margin: 10px 0 0 0;
+  opacity: 0.9;
+}
+
+/* Social links styling */
+.md-footer-social__link {
+  transition: transform 0.2s ease;
+}
+
+.md-footer-social__link:hover {
+  transform: scale(1.2);
+}
+
+/* Connect section styling */
+.connect-section {
+  background: rgba(102, 126, 234, 0.1);
+  border-radius: 10px;
+  padding: 20px;
+  margin: 1.5rem 0;
+}
+
+/* Copyright notice styling */
+.copyright-notice {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.85rem;
+  opacity: 0.8;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+  margin-top: 2rem;
+}
+
+/* Dark mode specific adjustments */
+[data-md-color-scheme="slate"] .mermaid {
+  filter: invert(93%) hue-rotate(180deg);
+}
+
+[data-md-color-scheme="slate"] .author-banner {
+  background: linear-gradient(135deg, #5a67d8 0%, #6b46c1 100%);
+}
+
+/* Professional card styling for about page */
+.profile-card {
+  background: var(--md-code-bg-color);
+  border-radius: 12px;
+  padding: 2rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Highlight author name */
+.author-name {
+  color: var(--md-primary-fg-color);
+  font-weight: 700;
+}
+
+/* Quote styling for author messages */
+blockquote {
+  border-left: 4px solid var(--md-primary-fg-color);
+  padding-left: 1rem;
+  font-style: italic;
+  background: rgba(102, 126, 234, 0.05);
+  padding: 1rem;
+  border-radius: 0 8px 8px 0;
+}
+
+/* Grid cards for contact section */
+.grid.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.grid.cards > * {
+  background: var(--md-code-bg-color);
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.grid.cards > *:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
