@@ -10,7 +10,7 @@
 
 ## What this is
 
-A comprehensive professional training portal for modern data management, built with MkDocs Material. Covers the foundational pillars — Data Fundamentals, Systems Architecture (SoE / SoR / SoRef), Modern Data Sources, and the rest of the lifecycle — in long-form, deeply structured text rather than a SaaS surface.
+A training portal for data management, built with MkDocs Material. Covers Data Fundamentals, Systems Architecture (SoE / SoR / SoRef), Modern Data Sources, and the rest of the lifecycle — in long-form text rather than a SaaS surface.
 
 Authored by Raja Shahnawaz Soni. Free for personal study and reference.
 
